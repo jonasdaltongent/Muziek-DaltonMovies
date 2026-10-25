@@ -15,7 +15,7 @@
      met de montage), gegeven op do 22-10 → lesstart = ophalen uit projectles 1 · lokaal 18, Windows 11, Canva in Chrome
      (schoolaccount) + de eigen gsm met de Canva-app, zoals projectles 1 · **geen punten**: "Je moet dit niet op punten
      zetten, gewoon informatie dat ze kunnen volgen om een leidraad te hebben is goed" → een opdracht in Classroom zonder
-     punten, met alleen de link naar de lespagina, geen werkdocument; de leerling klikt op *Markeren als voltooid* ·
+     punten, met alleen de link naar de lespagina, geen werkdocument; de leerling klikt op *Markeren als klaar* ·
      de beginsituatie: hun leerkracht Nederlands was drie weken ziek, dus de groepen hebben nog geen duidelijk plan; ze
      filmden al clips en filmen er nog bij, en zetten ze (hopelijk) vóór de les in Canva (Jonas mailt hen daarvoor) →
      de leidraad begint met een **kort trailerrecept** (opening, personages, probleem, spanning, titel) om de clips in
@@ -45,14 +45,14 @@ aftiteling in projectles 3).
 
 ### 1b. Hoe de lespagina werkt
 
-- **Startpagina**: *Wat heb je nodig?* in drie beelden (de opdracht met **Markeren als voltooid**, de lespagina, het Canva-ontwerp met de gsm),
+- **Startpagina**: *Wat heb je nodig?* in drie beelden (de opdracht met **Markeren als klaar**, de lespagina, het Canva-ontwerp met de gsm),
   *Dit maak je vandaag* (de tijdlijn met drie lagen: titel bovenaan, de clips in vijf blokken, muziek met vervaging), *Na deze les kan je*, *Vast?*.
 - **Een leidraad voor groepjes van drie in één gedeeld Canva-ontwerp.** Bovenaan elke stap staat **wie monteur is** (`.monteur`): de groep geeft zich
   in stap 1 de letters A, B en C; monteur is A (stap 2), B (3), C (4), A (5), B (6). De anderen zoeken muziek of bedenken de tekst. Met twee of vier: afwisselen.
 - **Handelingen met stapjes** zoals projectles 1: start in *Kort* (`data-modus-start="kort"`), *Toon stapjes*, geen knop *Stap voor stap / Kort*.
   Infokaders: *Het trailerrecept* (stap 2), *Waar staat wat in de tijdlijn?* (stap 3), *Harde overgang of Oplossen?* (stap 4), *Welke muziek mag je
   gebruiken?* (stap 5), *Zie je dit in jullie trailer?* (stap 6, groen: *Kijk na*).
-- **Stap 6** eindigt met **Markeren als voltooid** (een tekening van Classroom, niet gezien: zie § 8). Geen slot, geen codewoord.
+- **Stap 6** eindigt met **Markeren als klaar** (een tekening van Classroom, niet gezien: zie § 8). Geen slot, geen codewoord.
 - **Extra** (telt niet mee): de voice-over (Engels) voor wie de tekst al heeft, en een animatie op de titel.
 - **Dia 8** toont de kloktijden van do 29-10, 8ste uur (14.35–15.25), met stap 1 als *samen ✓*; **T** rekent opnieuw.
 - **Mascotte Dalton**: startpagina, stap 6, eindmelding; dia 2, 8 en 9. Niet op dia 3 (vijf blokken in een rij: geen plaats). `data-ai-hulp="uit"`.
@@ -82,7 +82,7 @@ Instructietekst (`classroom.json`):
 ```text
 1. Open de lespagina (link): dat is je leidraad voor vandaag. Er staan geen punten op.
 2. Je werkt in het Canva-ontwerp van je groep. Je hebt je gsm nodig, met de Canva-app, en oortjes als je die hebt.
-3. Klaar? Klik op Markeren als voltooid.
+3. Klaar? Klik op Markeren als klaar.
 ```
 
 ### Stap 3 — Met de hand, als de koppeling niet werkt
@@ -112,7 +112,7 @@ sjabloon vol stockvideo's; er is niets gedeeld, verstuurd of opgenomen). Op de l
 knop **opnemen**) en lijstjes als *Film*; het gekozen nummer: het luidsprekertje **Volume** (met een schuif, een getal en **Alles evenwichtig
 maken** — de help schrijft *Alles in evenwicht brengen*), **Vervagen** met **Vervaging aan het begin** en **Vervaging aan het einde**; rechtsklik op het nummer:
 **Aanpassen** · **Vervagen** · **Beat Sync** · **Volume**. Zie het verslag van de lesbouwer voor het voorstel voor `_afspraken/klikpaden.md`.
-**Markeren als voltooid** staat niet in de Nederlandse help (die schrijft **Markeren als klaar**): de lespagina zegt *voltooid* (Jonas) en vermeldt *klaar* als alternatief.
+**Markeren als klaar** komt uit de Nederlandse Classroom-help ([6020285](https://support.google.com/edu/classroom/answer/6020285?hl=nl), gelezen 25-10-2026: "Afhankelijk van het type opdracht en bijlagen staat er Inleveren of Markeren als klaar"); in de chat van 25-10 stond *voltooid*, maar dat was het woord van de AI. Op een leerlingscherm nog niet gezien (§ 8).
 
 ## 3. Het verloop van de les
 
@@ -122,7 +122,7 @@ dia 7 *Iedereen doet stap 1* (4'), dia 8 keuzewerktijd, dia 9 de exitvraag (wat 
 
 - **Eerste rondgang (stap 2):** staan de clips in vijf blokken, en stopt de trailer vóór het einde? Is er één monteur tegelijk?
 - **Tweede rondgang (stap 5):** is de muziek zachter dan de stemmen, en komt ze uit Canva? Heeft iedereen oortjes?
-- Mondeling op het einde: *klik op Markeren als voltooid, ook als jullie niet klaar zijn; in projectles 3 werken jullie verder.*
+- Mondeling op het einde: *klik op Markeren als klaar, ook als jullie niet klaar zijn; in projectles 3 werken jullie verder.*
 
 ## 4. Wat je moet zien (geen verbetersleutel)
 
@@ -134,7 +134,7 @@ Er wordt niets ingeleverd en er zijn geen punten: de checklist van stap 6 is de 
 | 3 | een titel op de bovenste track, groot en in een kleur die afsteekt, zo lang in beeld dat je hem twee keer leest |
 | 4 | minstens één overgang (**Oplossen**, kort); in de spanning harde overgangen; niet bij elke clip een andere |
 | 5 | een nummer uit Canva op een audiotrack, zachter dan de stemmen, met vervaging; titel en maker in een tekstvak helemaal achteraan |
-| 6 | de hele trailer afgespeeld; wie herkenbaar in beeld staat, weet dat de trailer getoond wordt; in Classroom op **Markeren als voltooid** geklikt |
+| 6 | de hele trailer afgespeeld; wie herkenbaar in beeld staat, weet dat de trailer getoond wordt; in Classroom op **Markeren als klaar** geklikt |
 
 ### Essentiële fouten — geef hier mondeling feedback op
 
@@ -163,8 +163,8 @@ Er is geen script: alles is HTML en CSS. De kloktijden: `python3 _tools/zet_lesm
 Nagekeken op 25-10-2026 met het leerlingaccount demoleerling3 (computer): tekstvak, transitie, het paneel Overgangen, Audio, Volume, Vervagen,
 Voice-over opnemen (de balk met **opnemen**; niets opgenomen). Nog niet te testen:
 
-1. **Markeren als voltooid** in Classroom bij een opdracht zonder punten en zonder bijlage om in te leveren: de knop is gezien als tekening (de help noemt
-   **Markeren als klaar**). Wat staat er op het scherm van de leerling? Krijgt de leerling nog een venster om te bevestigen?
+1. **Markeren als klaar** in Classroom bij een opdracht zonder punten en zonder bijlage om in te leveren: de naam komt uit de help (6020285), op de
+   lespagina staat een tekening. Staat er op het scherm van de leerling echt *Markeren als klaar*? Krijgt de leerling nog een venster om te bevestigen?
 2. **De microfoon**: vraagt Canva of Chrome om toestemming bij **opnemen**, en hebben de computers van lokaal 18 een microfoon? (Niet geklikt: er is niets opgenomen.)
 3. **Een titel op een andere plaats dan het begin**: het tekstvak kwam in onze test op de afspeelkop (op 0:00); of het ook elders op de afspeelkop komt, is niet gezien.
 4. **De Canva-app op de gsm** (zoals in projectles 1: gezien in de gsm-modus van Chrome, niet in de app).

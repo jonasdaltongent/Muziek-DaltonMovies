@@ -26,7 +26,7 @@ opgesteld_volgens: "_afspraken/ (werkruimte Toegepaste Informatica)"
 > **Een projectles zonder punten, met de lespagina als leidraad** (Jonas, 25-10-2026: "Je moet dit niet op punten
 > zetten, gewoon informatie dat ze kunnen volgen om een leidraad te hebben is goed"). **Geen werkdocument, geen
 > zelftest met codewoord, geen deadline.** In Classroom staat een opdracht zonder punten met alleen de link naar de
-> lespagina; de leerling klikt op het einde op **Markeren als voltooid**.
+> lespagina; de leerling klikt op het einde op **Markeren als klaar**.
 >
 > **De beginsituatie** (Jonas, 25-10-2026): de leerkracht Nederlands was drie weken ziek, dus de groepen hebben nog
 > geen duidelijk plan. Ze filmden al clips en filmen er nog bij; Jonas mailt hen om alle clips vóór de les in het
@@ -46,7 +46,7 @@ opgesteld_volgens: "_afspraken/ (werkruimte Toegepaste Informatica)"
 > **Transitie toevoegen** tussen twee clips en het paneel **Overgangen** met **Oplossen** en **Duur (seconden)** (de vervaging heet op het scherm
 > *Oplossen*) · **Elementen** › **Audio** (geen tabblad) met **Voice-over opnemen** · het luidsprekertje **Volume** met **Alles evenwichtig maken** ·
 > **Vervagen** met **Vervaging aan het begin** en **Vervaging aan het einde**. De schoolaccounts zien popmuziek (label **EDU**, 1:00). Niet gezien:
-> of de computers een microfoon hebben, en de knop **Markeren als voltooid** (README § 8).
+> of de computers een microfoon hebben, en de knop **Markeren als klaar** (README § 8).
 
 ---
 
@@ -148,7 +148,7 @@ Een computer in lokaal 18 (Windows 11, Chrome), Canva met het schoolaccount, de 
 
 Opdracht **Projectles 2 — Muziek, tekst en geluid**, onderwerp *Project Dalton @ the movies*, **zonder punten**, **zonder
 deadline**, met alleen de link naar de lespagina (`classroom.json`). Ingepland een half uur vóór de les: do 29-10 om
-14.05. De leerling klikt op het einde op **Markeren als voltooid**.
+14.05. De leerling klikt op het einde op **Markeren als klaar**.
 
 ## 14. Het individuele werkdocument
 
@@ -161,10 +161,10 @@ de aftiteling in projectles 3).
 | Fase | Tijd | Inhoud |
 |---|---|---|
 | **Instructie** — lesstart | 1' + 2' | **Dia 1** (*Zo start je*) terwijl de computers opstarten; de groepen zitten samen. **Dia 2**, ophalen uit projectles 1: *Je uploadde een clip met de Canva-app, maar je ziet ze niet in de tijdlijn. Waar staat ze?* A in de tijdlijn van een ander groepslid · **B alleen in jouw Uploads: je moet er nog op tikken** · C nergens, opnieuw filmen. Vingers. Brug: *"Kijk straks in stap 1 eerst of al jullie clips in het ontwerp staan."* |
-| **Instructie** — Ik doe | **5'** | **Dia 3** lesdoel en het **trailerrecept**: vijf blokken als een strook (opening · wie? · het probleem · spanning · titel), met één zin per blok en *verklap het einde niet* (1'30"). **Dia 4, demo live in Canva, hardop denkend** (2'30"): met de muis tussen twee clips › **Transitie toevoegen** › een vervaging, kort (*"een harde overgang is de standaard; een vervaging voor een tijdsprong"*); **Audio toevoegen** › een nummer uit Canva › de audiotrack selecteren › **Volume** lager (*"de stemmen moeten we verstaan"*) › **Vervagen** aan het einde. **Dia 5** de tijdlijn als tekening met drie lagen (bovenste track: tekst · hoofdtrack: clips en transities · audiotrack: muziek) (1'). |
+| **Instructie** — Ik doe | **5'** | **Dia 3** lesdoel en het **trailerrecept**: vijf blokken als een strook (opening · wie? · het probleem · spanning · titel), met één zin per blok en *verklap het einde niet* (1'30"). **Dia 4, demo live in Canva, hardop denkend** (2'30"): met de muis tussen twee clips › **Transitie toevoegen** › **Oplossen**, kort (*"een harde overgang is de standaard; Oplossen voor een tijdsprong"*); **Elementen** › **Audio** › een nummer uit Canva › de audiotrack selecteren › **Volume** lager (*"de stemmen moeten we verstaan"*) › **Vervagen** aan het einde. **Dia 5** de tijdlijn als tekening met drie lagen (bovenste track: tekst · hoofdtrack: clips en transities · audiotrack: muziek) (1'). |
 | **Instructie** — controle | 1' | **Dia 6**: *Jullie willen een liedje van Spotify onder de trailer. Mag dat?* A ja, als je de naam van de zanger vermeldt · B ja, het is voor school · **C nee: kies muziek uit de bibliotheek van Canva**. Vingers; dan één zin: *"Canva herkent beschermde muziek die je uploadt: dan publiceer je zonder geluid. En noteer de titel en de maker: die komen in de aftiteling."* |
 | **Samen** | **4'** | **Dia 7**: iedereen doet stap 1 (het ontwerp van de groep openen, kijken of alle clips erin staan, de eerste monteur kiezen); duim op. |
-| **Keuzewerktijd** | **tot het einde** | **Dia 8** blijft staan, met de kloktijden; stap 2 tot 6. Eerste rondgang (stap 2): staan de clips in vijf blokken, en stopt de trailer vóór het einde? Tweede rondgang (stap 5): is de muziek zachter dan de stemmen, en komt ze uit Canva? Laatste minuut: **dia 9**, de exitvraag, en mondeling: *klik op Markeren als voltooid, ook als jullie niet klaar zijn; in projectles 3 werken jullie verder.* |
+| **Keuzewerktijd** | **tot het einde** | **Dia 8** blijft staan, met de kloktijden; stap 2 tot 6. Eerste rondgang (stap 2): staan de clips in vijf blokken, en stopt de trailer vóór het einde? Tweede rondgang (stap 5): is de muziek zachter dan de stemmen, en komt ze uit Canva? Laatste minuut: **dia 9**, de exitvraag, en mondeling: *klik op Markeren als klaar, ook als jullie niet klaar zijn; in projectles 3 werken jullie verder.* |
 
 Niet voorgedaan: een titel toevoegen (het tabblad *Tekst* vinden ze zelf; de lespagina toont het stap voor stap), het
 trailerrecept toepassen (dat is hun eigen keuze), de voice-over (extra).
@@ -198,8 +198,8 @@ anderen kijken mee op hun eigen scherm in hetzelfde ontwerp, zoeken muziek of be
    - Grijze regel: *In blok 4 mogen de clips kort zijn: 1 à 2 seconden.* (*voorstel AI*, NFI: snellere cuts naar het
      einde toe)
 3. **Titels** (7') — *Canva, de bovenste track*
-   - Nieuwe monteur. Handelingen: zet de afspeelkop waar de titel moet komen · tabblad **Tekst** › **Een tekstvak
-     toevoegen** · typ de titel van jullie film · maak hem groot, in een kleur die afsteekt · sleep in de tijdlijn de
+   - Nieuwe monteur. Handelingen: zet de afspeelkop waar de titel moet komen · links **Tekst** › **Voeg een
+     tekstvak toe** · typ de titel van jullie film · maak hem groot, in een kleur die afsteekt · sleep in de tijdlijn de
      **randen** van de tekst: zo lang in beeld dat je hem twee keer kan lezen.
    - Een tweede tekst mag: een korte zin tussen de blokken (bijvoorbeeld *Binnenkort* of de datum van het slotmoment).
    - Infokader *Waar staat wat in de tijdlijn?*: de tekening van dia 5.
@@ -207,17 +207,17 @@ anderen kijken mee op hun eigen scherm in hetzelfde ontwerp, zoeken muziek of be
      bovenste track naar de juiste tijd.*
 4. **Overgangen** (5') — *Canva, de hoofdtrack*
    - Nieuwe monteur. Handelingen: ga met de muis **tussen twee clips** op de hoofdtrack › **Transitie toevoegen** ›
-     kies een vervaging › maak ze kort (duur) · speel af.
-   - Infokader *Harde overgang of vervaging?*: zonder transitie springt de film meteen naar de volgende clip: dat is
-     de standaard, en in blok 4 (spanning) het beste · een vervaging laat de ene clip in de andere overlopen, bv. bij
+     **Oplossen** › maak ze kort (**Duur (seconden)**) · speel af.
+   - Infokader *Harde overgang of Oplossen?*: zonder transitie springt de film meteen naar de volgende clip: dat is
+     de standaard, en in blok 4 (spanning) het beste · **Oplossen** (een vervaging) laat de ene clip in de andere overlopen, bv. bij
      een tijdsprong · **gebruik er weinig**, en telkens dezelfde soort.
    - Tip: *Geen knop Transitie toevoegen? De clips moeten op de hoofdtrack staan, niet op de bovenste track.*
 5. **Muziek en geluid** (11') — *Canva, de audiotrack*
-   - Nieuwe monteur (of de eerste weer). Handelingen: zet de afspeelkop aan het begin · **Audio toevoegen** (of het
-     tabblad **Audio**) · zoek op een sfeer (*spannend*, *grappig*, *droevig*) en luister met je oortjes · klik op het
-     nummer · selecteer de audiotrack › **Volume** lager tot je de stemmen in de clips goed verstaat (of **Alles in
-     evenwicht brengen**) · **Vervagen** aan het begin en op het einde · sleep de rand van de audiotrack tot het einde
-     van de trailer · speel af.
+   - Nieuwe monteur (of de eerste weer). Handelingen: zet de afspeelkop aan het begin · **Elementen** › **Audio**
+     (onder *Categorieën doorbladeren*) · zoek op een sfeer (*spannend*, *grappig*, *droevig*) en luister met je oortjes · klik op het
+     nummer · selecteer de audiotrack › **Volume** lager tot je de stemmen in de clips goed verstaat (of **Alles
+     evenwichtig maken**) · sleep de rechterrand van de audiotrack naar links tot het einde van de trailer · **Vervagen**
+     aan het begin en op het einde · speel af.
    - **Iedereen**: zet de **titel en de maker** van het nummer in een klein tekstvak **helemaal achteraan** in de
      tijdlijn (dat wordt de aftiteling in projectles 3).
    - Infokader *Welke muziek mag je gebruiken?*: muziek is beschermd door het auteursrecht · muziek uit de
@@ -231,7 +231,7 @@ anderen kijken mee op hun eigen scherm in hetzelfde ontwerp, zoeken muziek of be
      titel leesbaar, de muziek uit Canva en zachter dan de stemmen, de titel en de maker achteraan, wie herkenbaar in
      beeld staat weet het).
    - Schrijf voor projectles 3 op wat nog moet (één zin, in een tekstvak achteraan of op papier).
-   - Klik in je opdracht in Google Classroom op **Markeren als voltooid** (een tekening van de knop; klikpad nalezen,
+   - Klik in je opdracht in Google Classroom op **Markeren als klaar** (een tekening van de knop; klikpad nalezen,
      README § 2b).
 
 **Extra** (telt niet mee; op de lespagina, na stap 6): **de voice-over** voor wie de Engelse tekst al heeft: in een
@@ -266,7 +266,7 @@ verbeteren (vaak: de muziek is te luid, of de titel is te kort in beeld).
 
 ## 24. Indieninstructies
 
-Niets in te leveren. Op het einde: **Markeren als voltooid** in Classroom. Het ontwerp blijft in Canva; inleveren als
+Niets in te leveren. Op het einde: **Markeren als klaar** in Classroom. Het ontwerp blijft in Canva; inleveren als
 link gebeurt in projectles 3.
 
 ## 25. Privacy, auteursrecht en digitale veiligheid
@@ -295,7 +295,7 @@ Infokaders: *Het trailerrecept* (stap 2), *Waar staat wat in de tijdlijn?* (stap
 
 Route en checklist met `localStorage` (`movies-geluid_v1_`), *Toon stapjes*, de kloktijden op dia 8 (`zet_lesmomenten.py`).
 **Geen** zelftest met slot en **geen** codewoord (er wordt niets ingeleverd): de laatste stap eindigt met *Markeren als
-voltooid*. Het filmpje *Inleveren* valt weg.
+klaar*. Het filmpje *Inleveren* valt weg.
 
 ## Bronnenonderzoek
 

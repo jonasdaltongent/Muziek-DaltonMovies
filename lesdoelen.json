@@ -1,0 +1,38 @@
+{
+  "lesid": "movies-geluid",
+  "lesnr": "P2",
+  "titel": "Projectles 2 - Muziek, tekst en geluid (Dalton @ the movies, Canva)",
+  "week": 9,
+  "schooljaar": "2026-2027",
+  "datum": "2026-10-29",
+  "_opmerking_datum": "Donderdag 29 oktober 2026, 8ste lesuur, lokaal 18. Projectles 2 van Dalton @ the movies (lessenplan MWW, § 7): in de plaats van een les uit het lessenplan.",
+  "klasgroepen": [
+    "3 MWW"
+  ],
+  "_opmerking_klasgroepen": "De klasgroepcode moet '3 MWW' zijn (met spatie): daarmee vindt _tools/update_leerdoelen.py het blad. De echte klasnaam staat hieronder.",
+  "klasnaam": "3MWWE",
+  "finaliteit": "doorstroomfinaliteit",
+  "lesduur_minuten": 50,
+  "evaluatie": "geen punten: een leidraad (Jonas, 25-10-2026); het eindproduct volgt in projectles 3",
+  "deadline": null,
+  "_opmerking_deadline": "Geen deadline en geen punten: de leerling klikt op Markeren als voltooid (Jonas, 25-10-2026).",
+  "bron": "https://github.com/jonasdaltongent/Muziek-DaltonMovies",
+  "doelen": [
+    {
+      "code": "BV2_04.02",
+      "rol": "kern"
+    },
+    {
+      "code": "BV2_04.04",
+      "rol": "ondersteunend"
+    },
+    {
+      "code": "BV2_04.03",
+      "rol": "ondersteunend"
+    },
+    {
+      "code": "BV2_05.01",
+      "rol": "ondersteunend"
+    }
+  ]
+}

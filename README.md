@@ -69,7 +69,7 @@ Lespagina: <https://jonasdaltongent.github.io/Muziek-DaltonMovies/> · dia's: <h
 ### Stap 2 — De opdracht in Classroom, met de koppeling
 
 Als **concept** in [3MWWE - Informatica](https://classroom.google.com/c/MjUzNjQyOTk0NDFa), onder het onderwerp **Project Dalton @ the movies**.
-Inplannen op do 29-10 om 14.05 doet de hoofdsessie na het nakijken (`_afspraken/publiceren.md`).
+**Ingepland** door de hoofdsessie na het nakijken (25-10-2026, teruggelezen: `DRAFT` met een tijdstip, zonder punten, geen deadline): Classroom publiceert zelf een half uur vóór de les, do 29-10 om 14.05 (`_afspraken/publiceren.md`).
 
 | | Opdracht: **Projectles 2 — Muziek, tekst en geluid** |
 |---|---|

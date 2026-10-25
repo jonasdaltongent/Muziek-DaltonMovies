@@ -38,15 +38,15 @@ opgesteld_volgens: "_afspraken/ (werkruimte Toegepaste Informatica)"
 > **Wat vóór de les moet blijken** (`_vakinhoud/videomontage.md`, *Nog na te kijken* 4): de knopnamen van tekst,
 > transitie, audio, volume en voice-over komen uit de machinaal vertaalde Canva-help (25-10-2026). De lesbouwer kijkt
 > ze na met het leerlingaccount demoleerling3 (stap 4); het scherm van het leerlingaccount wint
-> (`_afspraken/klikpaden.md`). Of de computers van lokaal 18 een microfoon hebben, weet de AI niet: de voice-over kan
-> ook met de Canva-app op de gsm.
+> (`_afspraken/klikpaden.md`). De computers van lokaal 18 hebben **geen microfoon** (Jonas, 25-10-2026): de voice-over gaat
+> alleen met de Canva-app op de gsm.
 
 > [!NOTE]
 > **Nagekeken op 25-10-2026 met demoleerling3** (lesbouwer; README § 2b): **Tekst** › **Voeg een tekstvak toe** · het knopje
 > **Transitie toevoegen** tussen twee clips en het paneel **Overgangen** met **Oplossen** en **Duur (seconden)** (de vervaging heet op het scherm
 > *Oplossen*) · **Elementen** › **Audio** (geen tabblad) met **Voice-over opnemen** · het luidsprekertje **Volume** met **Alles evenwichtig maken** ·
 > **Vervagen** met **Vervaging aan het begin** en **Vervaging aan het einde**. De schoolaccounts zien popmuziek (label **EDU**, 1:00). Niet gezien:
-> of de computers een microfoon hebben, en de knop **Markeren als klaar** (README § 8).
+> de voice-over in de Canva-app op de gsm (de computers hebben geen microfoon) en de knop **Markeren als klaar** (README § 8).
 
 ---
 
@@ -235,7 +235,9 @@ anderen kijken mee op hun eigen scherm in hetzelfde ontwerp, zoeken muziek of be
      README § 2b).
 
 **Extra** (telt niet mee; op de lespagina, na stap 6): **de voice-over** voor wie de Engelse tekst al heeft: in een
-rustige hoek, met de Canva-app op de gsm of op de computer: **Audio** › **Voice-over opnemen**; zet de muziek dan nog
+rustige hoek, **alleen met de Canva-app op de gsm** (de computers van lokaal 18 hebben geen microfoon; Jonas, 25-10-2026):
+**Audio toevoegen** › **Voice-over opnemen** › *Toegang verlenen* › **Opnemen** › **Voltooien** (Canva-help, *Mobiel*; de app zelf
+niet gezien); zet de muziek dan op de computer nog
 zachter onder de stem. Of: laat de titel binnenkomen met een animatie (**Animeren**, nalezen).
 
 Stap 1 tot 6 samen: **40 minuten** (4 + 9 + 7 + 5 + 11 + 4), de keuzewerktijd. Dezelfde minuten staan op dia 8 en

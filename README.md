@@ -53,7 +53,7 @@ aftiteling in projectles 3).
   Infokaders: *Het trailerrecept* (stap 2), *Waar staat wat in de tijdlijn?* (stap 3), *Harde overgang of Oplossen?* (stap 4), *Welke muziek mag je
   gebruiken?* (stap 5), *Zie je dit in jullie trailer?* (stap 6, groen: *Kijk na*).
 - **Stap 6** eindigt met **Markeren als klaar** (een tekening van Classroom, niet gezien: zie § 8). Geen slot, geen codewoord.
-- **Extra** (telt niet mee): de voice-over (Engels) voor wie de tekst al heeft, en een animatie op de titel.
+- **Extra** (telt niet mee): de voice-over (Engels) voor wie de tekst al heeft, **met de Canva-app op de gsm** (lokaal 18 heeft geen microfoon), en een animatie op de titel.
 - **Dia 8** toont de kloktijden van do 29-10, 8ste uur (14.35–15.25), met stap 1 als *samen ✓*; **T** rekent opnieuw.
 - **Mascotte Dalton**: startpagina, stap 6, eindmelding; dia 2, 8 en 9. Niet op dia 3 (vijf blokken in een rij: geen plaats). `data-ai-hulp="uit"`.
 - **Route**: stap 1–2 *De trailer opbouwen*, stap 3–6 *Afwerken met tekst en geluid*, *Extra*.
@@ -165,7 +165,9 @@ Voice-over opnemen (de balk met **opnemen**; niets opgenomen). Nog niet te teste
 
 1. **Markeren als klaar** in Classroom bij een opdracht zonder punten en zonder bijlage om in te leveren: de naam komt uit de help (6020285), op de
    lespagina staat een tekening. Staat er op het scherm van de leerling echt *Markeren als klaar*? Krijgt de leerling nog een venster om te bevestigen?
-2. **De microfoon**: vraagt Canva of Chrome om toestemming bij **opnemen**, en hebben de computers van lokaal 18 een microfoon? (Niet geklikt: er is niets opgenomen.)
+2. ~~De microfoon~~: de computers van lokaal 18 hebben **geen microfoon** (Jonas, 25-10-2026). De voice-over (Extra) gaat daarom alleen met de
+   Canva-app op de gsm: **Audio toevoegen** › **Voice-over opnemen** › *Toegang verlenen* › **Opnemen** › **Voltooien** (Canva-help, *Mobiel*; de app
+   zelf niet gezien). Lukt het opnemen in de app, en komt de opname in het gedeelde ontwerp?
 3. **Een titel op een andere plaats dan het begin**: het tekstvak kwam in onze test op de afspeelkop (op 0:00); of het ook elders op de afspeelkop komt, is niet gezien.
 4. **De Canva-app op de gsm** (zoals in projectles 1: gezien in de gsm-modus van Chrome, niet in de app).
 5. **Luisteren naar een nummer in de lijst** (op het plaatje klikken?) zonder het in het ontwerp te zetten: een klik op de titel zette het wel in het ontwerp.
